@@ -35,6 +35,6 @@ class MarketDetailVC: UIViewController {
         self.lblTime.text = market.time
         
     }
-
+//abc
 
 }
